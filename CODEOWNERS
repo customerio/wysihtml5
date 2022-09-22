@@ -1,0 +1,5 @@
+# owned by Engineering team
+* @customerio/engineering
+
+# only SRE team can edit CODEOWNERS file
+CODEOWNERS @customerio/sre
